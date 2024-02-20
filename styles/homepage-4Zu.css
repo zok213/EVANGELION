@@ -330,24 +330,4 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-@media only screen and (max-width: 768px) {
-  body {
-    width: auto; 
-    font-size: 16px; 
-  }
-  
-  .homepage-hA7 .auto-group-8alo-Evj,
-  .homepage-hA7 .auto-group-frew-enj {
-    padding: 1.6rem 1rem; 
-    width: 100%; 
-  }
-  
-  
-  .homepage-hA7 .auto-group-8alo-Evj .b9262b99648687-ku5,
-  .homepage-hA7 .auto-group-frew-enj .de24e799648687-xYX,
-  .homepage-hA7 .auto-group-frew-enj .fa99648687-bfM,
-  .homepage-hA7 .auto-group-frew-enj .image-4-V1y {
-    width: 100%; 
-    height: auto; 
-  }
-}
+
