@@ -1,6 +1,5 @@
 
 html {
-  zoom: 80%;
 	font-size:62.5%;
 
 }
@@ -15,7 +14,6 @@ input {
 	border: none;
 }
 body {
-  overflow-x: hidden;
   width: 192.4rem;
 }.homepage-hA7 {
   width: 100%;
@@ -333,7 +331,6 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-/* 
 @media only screen and (max-width: 768px) {
   body {
     width: auto; 
@@ -354,4 +351,4 @@ body {
     width: 100%; 
     height: auto; 
   }
-} */
+}
