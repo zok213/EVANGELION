@@ -16,7 +16,7 @@ input {
 }
 body {
   width: 192.4rem;
-}.homepage-hA7 {
+}.styles {
   width: 100%;
   overflow: hidden;
   position: relative;
@@ -25,7 +25,7 @@ body {
   flex-direction: column;
   background-color: #000000;
 }
-.homepage-hA7 .auto-group-8alo-Evj {
+.styles .group {
   box-sizing: border-box;
   padding: 0rem 0rem 1.6rem 0.05rem;
   width: 100%;
@@ -34,7 +34,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .b9262b99648687-ku5 {
+.styles-group-8alo-Evj .block1 {
   margin: 0rem 0rem 3.2rem 0.25rem;
   width: 192rem;
   height: 64rem;
@@ -42,7 +42,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM {
+.styles .group .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM {
   margin: 0rem 2.01rem 1.6rem 0rem;
   max-width: 151.9rem;
   font-size: 3.2rem;
@@ -53,7 +53,7 @@ body {
   font-family: Newsreader, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM-sub-0 {
+.styles .group .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM-sub-0 {
   font-size: 3.2rem;
   font-weight: 500;
   line-height: 1;
@@ -62,9 +62,8 @@ body {
   color: #e31414;
   font-family: Newsreader, 'Source Sans Pro';
 }
-.homepage-hA7 .auto-group-8alo-Evj .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM .evangelionis-an-anime-that-was-crazy-and-obsessed-in-my-childhood-this-year-its-final-theater-version-will-be-released-sooni-also-hope-to-use-my-way-to-commemorate-this-animation-throughout-my-growing-period-so-i-here-is-my-fanart-short-film-EZM-sub-1 {
-}
-.homepage-hA7 .auto-group-8alo-Evj .evangelion--W31 {
+
+.styles .group .evangelion--W31 {
   margin: 0rem 0.05rem 3.2rem 0rem;
   max-width: 32rem;
   text-align: center;
@@ -76,7 +75,7 @@ body {
   font-family: Newsreader, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .ede99648687-RJP {
+.styles .group .video {
   margin: 0rem 0rem 1.6rem 0.05rem;
   width: 192.1005rem;
   height: 86.4rem;
@@ -84,7 +83,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .it-cannot-be-true-like-every-eva-movie-has-a-subtitle-i-also-choose-a-name-for-my-work-pronounced-trueit-has-two-meanings-onemeans-my-dream-come-true-and-the-other-meansreality-the-core-purpose-of-this-creation-is-to-try-to-make-the-eva-world-from-the-anime-style-to-the-real-as-one-of-my-favorite-lines-in-eva-says-dream-is-the-continuation-of-reality-reality-is-the-end-of-dream--8Co {
+.styles .group .it-cannot-be-true-like-every-eva-movie-has-a-subtitle-i-also-choose-a-name-for-my-work-pronounced-trueit-has-two-meanings-onemeans-my-dream-come-true-and-the-other-meansreality-the-core-purpose-of-this-creation-is-to-try-to-make-the-eva-world-from-the-anime-style-to-the-real-as-one-of-my-favorite-lines-in-eva-says-dream-is-the-continuation-of-reality-reality-is-the-end-of-dream--8Co {
   margin: 0rem 0rem 1.6rem 0.25rem;
   max-width: 173.9rem;
   text-align: center;
@@ -96,14 +95,14 @@ body {
   font-family: Newsreader, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-je1u-1vo {
+.styles .group .block2 {
   margin: 0rem 0rem 1.6rem 0.1rem;
   width: calc(100% - 0.1rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-je1u-1vo .d26d99648687-6xF {
+.styles .group .block2 .s1 {
   margin-right: 1.5rem;
   width: 95.4rem;
   height: 48.1rem;
@@ -111,49 +110,49 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-je1u-1vo .beee7899648687-cQo {
+.styles .group .block2 .s2 {
   width: 95.5rem;
   height: 48.1rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-jwwo-YZM {
+.styles .group .block3 {
   width: 192.6rem;
   display: flex;
   column-gap: 1.5rem;
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-jwwo-YZM .ede99648687-VUb {
+.styles .group .block3 .s3 {
   width: 63.3rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-jwwo-YZM .a2299648687-SPq {
+.styles .group .block3 .s4 {
   width: 63.8rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-8alo-Evj .auto-group-jwwo-YZM .c5af399648687-aF9 {
+.styles .group .block3 .s5 {
   width: 62.5rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-vdz7-7ks {
+.styles .block4 {
   margin-bottom: 1.6rem;
   width: 100%;
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-vdz7-7ks .f912299648687-g3H {
+.styles .block4 .s6 {
   margin-right: 1.5rem;
   width: 95.7rem;
   height: 59.5rem;
@@ -161,14 +160,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-vdz7-7ks .a5ca99648687-odh {
+.styles .block4 .s7 {
   width: 95.5rem;
   height: 59.5rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .when-this-project-was-made-terrible-viruses-swept-the-world-we-need-to-wear-masks-to-isolate-each-other-just-like-atfield-in-the-anime-but-we-still-connect-with-each-other-through-eyes-and-give-each-other-strength-so-we-captured-some-warm-images-during-this-outbreak-you-will-not-die-i-will-protect-you--9Sf {
+.styles .when-this-project-was-made-terrible-viruses-swept-the-world-we-need-to-wear-masks-to-isolate-each-other-just-like-atfield-in-the-anime-but-we-still-connect-with-each-other-through-eyes-and-give-each-other-strength-so-we-captured-some-warm-images-during-this-outbreak-you-will-not-die-i-will-protect-you--9Sf {
   margin-left: 0.3rem;
   max-width: 154.6rem;
   text-align: center;
@@ -180,7 +179,7 @@ body {
   font-family: Newsreader, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj {
+.styles .group2 {
   box-sizing: border-box;
   padding: 1.6rem 0rem 2.7rem 0.15rem;
   width: 100%;
@@ -189,7 +188,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .de24e799648687-xYX {
+.styles .group2 .rei {
   margin: 0rem 0rem 1.6rem 0.15rem;
   width: 192rem;
   height: 99.9rem;
@@ -197,7 +196,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .eva-01-eva-01-test-typeis-a-symbol-of-the-entire-eva-world-and-my-favorite-mecha-it-is-a-mixture-of-organic-biology-and-machineryso-it-is-a-challenge-to-make-the-giant-body-in-the-animation-real-and-credible-andwe-try-our-best-to-remake-theeva-01launchand-the-attacthis-outbreakin-a-more-cinematic-way--Gp7 {
+.styles .group2 .eva-01-eva-01-test-typeis-a-symbol-of-the-entire-eva-world-and-my-favorite-mecha-it-is-a-mixture-of-organic-biology-and-machineryso-it-is-a-challenge-to-make-the-giant-body-in-the-animation-real-and-credible-andwe-try-our-best-to-remake-theeva-01launchand-the-attacthis-outbreakin-a-more-cinematic-way--Gp7 {
   margin: 0rem 0rem 1.5rem 0.15rem;
   max-width: 147.3rem;
   text-align: center;
@@ -209,14 +208,14 @@ body {
   font-family: Newsreader, 'Source Sans Pro';
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-lxzo-dYB {
+.styles .group2 .block4 {
   margin: 0rem 1.55rem 1.6rem 1.7rem;
   width: calc(100% - 3.25rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-lxzo-dYB .ecc3d899648687-AY7 {
+.styles .group2 .block4 .s9 {
   margin-right: 1.5rem;
   width: 95.4rem;
   height: 49.6rem;
@@ -224,14 +223,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-lxzo-dYB .ee822f99648687-Tn7 {
+.styles .group2 .block4 .s10 {
   width: 92.1rem;
   height: 49.6rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-kr1v-ykT {
+.styles .group2 .block5 {
   margin-bottom: 1.6rem;
   width: 192.4rem;
   display: flex;
@@ -239,28 +238,28 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-kr1v-ykT .b99648687-hgT {
+.styles .group2 .block5 .s11 {
   width: 62.7rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-kr1v-ykT .dc7d2599648687-dKD {
+.styles .group2 .block5 .s10 {
   width: 63.9rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-kr1v-ykT .d018899648687-mRR {
+.styles .group2 .block5 .s11 {
   width: 62.8rem;
   height: 40rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .launch-part-in-the-base-7EP {
+.styles .group2 .launch-part-in-the-base-7EP {
   margin: 0rem 0rem 1.6rem 0.15rem;
   text-align: center;
   font-size: 3.2rem;
@@ -272,7 +271,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .fa99648687-bfM {
+.styles .group2 .block6 {
   margin: 0rem 0rem 1.6rem 0.15rem;
   width: 192rem;
   height: 91.4rem;
@@ -280,14 +279,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-fwyj-KrF {
+.styles .group2 .block7 {
   margin: 0rem 1.6rem 1.3rem 1.75rem;
   width: calc(100% - 3.35rem);
   display: flex;
   align-items: center;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-fwyj-KrF .afd99648687-4J3 {
+.styles .group2 .block7 .s12 {
   margin-right: 1.5rem;
   width: 95.9rem;
   height: 55rem;
@@ -295,14 +294,14 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .auto-group-fwyj-KrF .a6f67b99648687-Aby {
+.styles .group2 .block7 .s13 {
   width: 91.5rem;
   height: 55rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .outbreakin-the-city-HwV {
+.styles .group2 .outbreakin-the-city-HwV {
   margin: 0rem 0rem 1rem 0.65rem;
   font-size: 3.2rem;
   font-weight: 500;
@@ -313,7 +312,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .image-4-V1y {
+.styles .group2 .image-4-V1y {
   margin: 0rem 0rem 5.5rem 0.25rem;
   width: 192rem;
   height: 86.4rem;
@@ -321,7 +320,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
-.homepage-hA7 .auto-group-frew-enj .the-end-of-evangelion-p4F {
+.styles .group2 .the-end-of-evangelion-p4F {
   margin-left: 0.85rem;
   font-size: 3.2rem;
   font-weight: 500;
@@ -332,24 +331,25 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 @media only screen and (max-width: 768px) {
   body {
     width: auto; 
     font-size: 16px; 
   }
   
-  .homepage-hA7 .auto-group-8alo-Evj,
-  .homepage-hA7 .auto-group-frew-enj {
+  .styles .group,
+  .styles .group2 {
     padding: 1.6rem 1rem; 
     width: 100%; 
   }
   
   
-  .homepage-hA7 .auto-group-8alo-Evj .b9262b99648687-ku5,
-  .homepage-hA7 .auto-group-frew-enj .de24e799648687-xYX,
-  .homepage-hA7 .auto-group-frew-enj .fa99648687-bfM,
-  .homepage-hA7 .auto-group-frew-enj .image-4-V1y {
+  .styles .group .block1,
+  .styles .group2 .rei,
+  .styles .group2 .block6,
+  .styles .group2 .image-4-V1y {
     width: 100%; 
-    height: auto; 
+    height: 100%; 
   }
 }
